@@ -6,7 +6,7 @@ Simple User Interface testing using the [Katalon Chrome Extension](https://chrom
 
 # Blog Post
 
-Please visit [Salesforce REST API](https://www.google.com) blog post for a deeper explanation of this repo.
+Please visit [AUTOMATE USER INTERFACE TESTING - LIGHTNING & CLASSIC](https://chicagocloudgroup.com/automate-user-interface-testing-lightning-classic/) blog post for a deeper explanation of this repo.
 
 Please feel free to fork and/or download this repo for your own uses.
 
